@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of liyanqwq/flarum-cravatar.** Not for installation: use [Packagist](https://packagist.org/packages/liyanqwq/flarum-cravatar) or the [upstream repository](https://github.com/liyanqwq/flarum-cravatar).
 
-**0** versions archived · Latest: [`v0.1.0`](https://github.com/flarchive/liyanqwq-flarum-cravatar/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^1.0.3`
+**1** versions archived · Latest: [`v0.1.0`](https://github.com/flarchive/liyanqwq-flarum-cravatar/tree/archive/v0.1.0) · License: `MIT` · Flarum: `^1.0.3`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.0` | 2022-03-12 | `^1.0.3` | [Browse](https://github.com/flarchive/liyanqwq-flarum-cravatar/tree/archive/v0.1.0) |
 
 Catalog entry: [packages/liyanqwq-flarum-cravatar.json](https://github.com/flarchive/archive-index/blob/main/packages/liyanqwq-flarum-cravatar.json)
 
